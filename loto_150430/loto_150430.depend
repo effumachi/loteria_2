@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430426005 source:z:\loto_150430\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
